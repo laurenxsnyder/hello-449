@@ -24,8 +24,13 @@ h2{
     font-weight: bold;
     font-size: 50px;
     margin-left: 40px;
+    margin-top: 40px;
 }
 
+p{
+    margin-top: 40px;
+    margin-left: 40px;
+}
 .card {
     background-color: #d8d8e3;
     border-radius: 20px;
