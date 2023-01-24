@@ -1,7 +1,7 @@
 body {
     background: white;
     font-family: Helvetica, sans-serif;
-    color: rgb(97, 91, 91);
+    color: rgb(45, 44, 44);
     margin-top: 100px;
 }
 
@@ -24,15 +24,16 @@ h2{
     font-weight: bold;
     font-size: 50px;
     margin-left: 40px;
-    margin-top: 40px;
+    padding-top: 40px;
 }
 
 p{
     margin-top: 40px;
     margin-left: 40px;
+    font-size: larger;
 }
 .card {
-    background-color: #d8d8e3;
+    background-color: #cecece;
     border-radius: 20px;
     margin: 0 auto;
     width: 1000px;
