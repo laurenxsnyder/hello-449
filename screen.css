@@ -50,6 +50,7 @@ p{
     display: flex;
     height: 300px;
     margin-top: 40px;
+    flex-direction: row;
 }
 
 .ex-img {
@@ -72,7 +73,7 @@ p{
     text-align: left;
     margin-bottom: 10px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     margin-top: 10px;
 
 }
