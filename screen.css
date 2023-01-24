@@ -10,6 +10,14 @@ img {
     height: 225px;
     object-fit: cover;
     object-position: bottom;
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 1000px;
+    text-align: left;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
 }
 
 h1 {
@@ -24,7 +32,7 @@ h2{
     font-size: 50px;
     margin-left: 40px;
     margin-top: 40px;
-    padding-top: 40px;
+    float: left;
 }
 
 h3{
@@ -32,7 +40,7 @@ h3{
     font-size: 50px;
     margin-left: 40px;
     margin-top: 40px;
-    padding-top: 40px;
+    float: right;
 }
 
 p{
