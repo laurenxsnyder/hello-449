@@ -20,10 +20,9 @@ h2{
     font-size: 50px;
     margin-left: 40px;
     margin-top: 40px;
-    float: left;
-    display: flex;
-    flex-direction: column;
-    width: 50%;
+    width: 100px;  /* Or whatever */
+    height: 100px; /* Or whatever */
+    margin: auto
 }
 
 h3{
@@ -31,10 +30,9 @@ h3{
     font-size: 50px;
     margin-left: 40px;
     margin-top: 40px;
-    float: right;
-    display: flex;
-    flex-direction: column;
-    width: 50%;
+    width: 100px;  /* Or whatever */
+    height: 100px; /* Or whatever */
+    margin: auto
 }
 
 p{
@@ -52,7 +50,7 @@ p{
     text-align: left;
     margin-bottom: 10px;
     display: flex;
-    flex-direction: column;
+    height: 300px;
     margin-top: 40px;
 }
 
