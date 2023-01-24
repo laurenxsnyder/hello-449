@@ -23,11 +23,11 @@ h2{
     margin: 0;
     font-weight: bold;
     font-size: 50px;
-    margin-left: 25px;
+    margin-left: 40px;
 }
 
 .card {
-    background-color: #f9f9ff;
+    background-color: #c2c2c8;
     border-radius: 20px;
     margin: 0 auto;
     width: 1000px;
