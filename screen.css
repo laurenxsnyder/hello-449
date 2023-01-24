@@ -21,13 +21,13 @@ h1 {
 
 h2{
     margin: 0;
-    font-weight: 200;
+    font-weight: bold;
     font-size: 50px;
     margin-left: 25px;
 }
 
 .card {
-    background-color: #e2d6d6;
+    background-color: #f9f9ff;
     border-radius: 20px;
     margin: 0 auto;
     width: 1000px;
