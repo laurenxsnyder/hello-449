@@ -2,6 +2,7 @@ body {
     background: white;
     font-family: Helvetica, sans-serif;
     color: rgb(45, 44, 44);
+    margin-top: 100px;
 }
 
 img {
@@ -21,7 +22,7 @@ h2{
     margin-top: 40px;
     width: 500px;  /
     height: 500px; 
-    margin: auto;
+    margin: 25px;
 }
 
 h3{
@@ -31,15 +32,13 @@ h3{
     margin-top: 40px;
     width: 500px; 
     height: 500px; 
-    margin: auto;
+    margin:25px;
 }
 
 p{
     margin-top: 10px;
     margin-left: 40px;
     font-size: larger;
-    display: flex;
-    flex-direction: column;
 }
 .card {
     background-color: #e4e4e4;
@@ -51,7 +50,6 @@ p{
     display: flex;
     height: 300px;
     margin-top: 40px;
-    flex-flow: row wrap;
 }
 
 .ex-img {
