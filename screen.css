@@ -52,6 +52,7 @@ p{
     display: flex;
     height: 300px;
     margin-top: 40px;
+    flex-flow: row wrap;
 }
 
 .ex-img {
