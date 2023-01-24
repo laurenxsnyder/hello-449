@@ -20,9 +20,9 @@ h2{
     font-size: 50px;
     margin-left: 40px;
     margin-top: 40px;
-    width: 100px;  /* Or whatever */
-    height: 100px; /* Or whatever */
-    margin: auto
+    width: 500px;  /
+    height: 500px; 
+    margin: auto;
 }
 
 h3{
@@ -30,9 +30,9 @@ h3{
     font-size: 50px;
     margin-left: 40px;
     margin-top: 40px;
-    width: 100px;  /* Or whatever */
-    height: 100px; /* Or whatever */
-    margin: auto
+    width: 500px; 
+    height: 500px; 
+    margin: auto;
 }
 
 p{
