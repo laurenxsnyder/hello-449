@@ -24,6 +24,7 @@ h2{
     font-weight: bold;
     font-size: 50px;
     margin-left: 40px;
+    margin-top: 40px;
     padding-top: 40px;
 }
 
@@ -33,10 +34,12 @@ p{
     font-size: larger;
 }
 .card {
-    background-color: #cecece;
+    background-color: #e4e4e4;
     border-radius: 20px;
     margin: 0 auto;
     width: 1000px;
     text-align: left;
     margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
 }
