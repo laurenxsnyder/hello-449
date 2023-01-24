@@ -28,7 +28,7 @@ h2{
 }
 
 p{
-    margin-top: 40px;
+    margin-top: 10px;
     margin-left: 40px;
     font-size: larger;
 }
@@ -41,4 +41,5 @@ p{
     margin-bottom: 10px;
     display: flex;
     flex-direction: column;
+    margin-top: 40px;
 }
