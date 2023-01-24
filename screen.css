@@ -35,6 +35,7 @@ h2{
     float: left;
     display: flex;
     flex-direction: column;
+    width: 50%;
 }
 
 h3{
@@ -45,6 +46,7 @@ h3{
     float: right;
     display: flex;
     flex-direction: column;
+    width: 50%;
 }
 
 p{
